@@ -49,6 +49,14 @@ Windows Notes:
     - Should install at location: C:\Program Files (x86)\GNU Tools ARM Embedded\4.8 2014q2
         - This matters, or you will have to change the current GDB configurations.
 
-    
+Ubuntu Debug Setup
+  Ubuntu setup is working, assuming proper installation of arm-none-eabi-gcc 
+  toolchain and OpenOCD.
+
+  ARM Toolchain will have to be built from source (do not use apt-get to install, 
+  this is out of sync from current).
+
+  You can use apt-get to install OpenOCD. This is a slightly older version, but 
+  supports this setup completely with no glitches.
 
 
