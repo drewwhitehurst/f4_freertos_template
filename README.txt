@@ -60,3 +60,4 @@ Ubuntu Debug Setup
   supports this setup completely with no glitches.
 
 
+Mac OSX Support integrated
